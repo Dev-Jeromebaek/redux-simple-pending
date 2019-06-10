@@ -6,6 +6,7 @@
 .npmrc
 .lock-wscript
 .svn
+.lock
 .wafpickle-*
 config.gypi
 CVS
