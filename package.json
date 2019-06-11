@@ -1,6 +1,6 @@
 {
   "name": "redux-simple-pending",
-  "version": "0.1.0-beta.1",
+  "version": "0.1.0-beta.2",
   "description": "Awesome Redux simple module that helps to management async actions based on promise. (pending and error)",
   "main": "dist/pending.min.js",
   "scripts": {
